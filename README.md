@@ -4,5 +4,5 @@
 
 A C++ Register Solution with an interface similar to std::tuple
 
-The idea is based on the comment of @viboes in the [discussion](https://groups.google.com/a/isocpp.org/forum/#!topic/std-proposals/XzuKXL1S6Hg) 
+The idea is based on the comment of Vincente Escriba in the [discussion](https://groups.google.com/a/isocpp.org/forum/#!topic/std-proposals/XzuKXL1S6Hg) 
 about my standard proposal.
